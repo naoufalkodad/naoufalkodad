@@ -14,5 +14,5 @@ Tools: GitHub Actions, Vercel, testing, analytics
 
 ### Contact
 Portfolio: URL
-LinkedIn: URL
+LinkedIn: https://linkedin.com/in/naoufalkodad
 Email: naoufalkodad@gmail.com
