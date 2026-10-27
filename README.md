@@ -10,12 +10,12 @@ Full-stack developer building modern web applications with React, Next.js, and b
 - Travel Expense Management App — Web application for managing employee travel allowances by grade. Built with Laravel, MySQL, Bootstrap, and JavaScript.
 
 ### Stack
-Frontend: React, Next.js, TypeScript, JavaScript.
-Backend: Node.js, ASP.NET Core, Spring Boot, API design.
-Database: PostgreSQL, Supabase, MySQL, SQL Server.
-Tools: GitHub Actions, Vercel, testing, analytics
+-Frontend: React, Next.js, TypeScript, JavaScript
+-Backend: Node.js, ASP.NET Core, Spring Boot, API design
+-Database: PostgreSQL, Supabase, MySQL, SQL Server
+-Tools: GitHub Actions, Vercel, testing, analytics
 
 ### Contact
-LinkedIn: https://linkedin.com/in/naoufalkodad.
-Email: naoufalkodad@gmail.com.
-Portfolio: Coming soon
+-LinkedIn: https://linkedin.com/in/naoufalkodad
+-Email: naoufalkodad@gmail.com
+-Portfolio: Coming soon
